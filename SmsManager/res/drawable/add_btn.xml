@@ -1,0 +1,16 @@
+<item xmlns:tools="http://schemas.android.com/tools">
+    <ripple
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:color="?android:colorControlHighlight" tools:ignore="NewApi">
+        <item android:id="@android:id/mask">
+            <shape android:shape="oval" >
+                <solid android:color="#FFBB00" />
+            </shape>
+        </item>
+        <item>
+            <shape android:shape="oval" >
+                <solid android:color="@android:color/primary_text_dark" />
+            </shape>
+        </item>
+    </ripple>
+</item>

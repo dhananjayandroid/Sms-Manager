@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmsManager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_sms">No SMS</string>
+    <string name="type_your_message_here">Type your message here</string>
+    <string name="send">Send</string>
+    <string name="sending_">Sending...</string>
+    <string name="enter_number">Enter number</string>
+    <string name="loading_">Loading...</string>
+
+</resources>

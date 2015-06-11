@@ -41,3 +41,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+./appcompat_v7/bin
+./appcompat_v7/gen
+./SmsManager/bin
+./SmsManager/gen
