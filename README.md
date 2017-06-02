@@ -1,6 +1,6 @@
 # Sms-Manager
 
- A SMS application for Android supporting Android version >= 2.2
+ An SMS application for Android supporting Android version >= 2.2
 - can send and receive SMSs.
 - displays the messages you have received in a format specified below:
 	- For a given sender, UI displays only one tile showing the latest message received for that sender. If this message is unread, it's displayed in bold.
